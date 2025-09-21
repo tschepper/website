@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Heyho Lesgoo!
+draft: false
+tags:
+  - starting_page
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the first page!
